@@ -1,0 +1,15 @@
+C:\Users\SANKET\DN5-Deepskilling-Dotnet-FSE\week-1\DSA-01-InventoryManagementSystem\obj\Debug\net8.0\DSA-01-InventoryManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SANKET\DN5-Deepskilling-Dotnet-FSE\week-1\DSA-01-InventoryManagementSystem\obj\Debug\net8.0\DSA-01-InventoryManagementSystem.AssemblyInfoInputs.cache
+C:\Users\SANKET\DN5-Deepskilling-Dotnet-FSE\week-1\DSA-01-InventoryManagementSystem\obj\Debug\net8.0\DSA-01-InventoryManagementSystem.AssemblyInfo.cs
+C:\Users\SANKET\DN5-Deepskilling-Dotnet-FSE\week-1\DSA-01-InventoryManagementSystem\obj\Debug\net8.0\DSA-01-InventoryManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\SANKET\DN5-Deepskilling-Dotnet-FSE\week-1\DSA-01-InventoryManagementSystem\obj\Debug\net8.0\DSA-01-InventoryManagementSystem.sourcelink.json
+C:\Users\SANKET\DN5-Deepskilling-Dotnet-FSE\week-1\DSA-01-InventoryManagementSystem\bin\Debug\net8.0\DSA-01-InventoryManagementSystem.exe
+C:\Users\SANKET\DN5-Deepskilling-Dotnet-FSE\week-1\DSA-01-InventoryManagementSystem\bin\Debug\net8.0\DSA-01-InventoryManagementSystem.deps.json
+C:\Users\SANKET\DN5-Deepskilling-Dotnet-FSE\week-1\DSA-01-InventoryManagementSystem\bin\Debug\net8.0\DSA-01-InventoryManagementSystem.runtimeconfig.json
+C:\Users\SANKET\DN5-Deepskilling-Dotnet-FSE\week-1\DSA-01-InventoryManagementSystem\bin\Debug\net8.0\DSA-01-InventoryManagementSystem.dll
+C:\Users\SANKET\DN5-Deepskilling-Dotnet-FSE\week-1\DSA-01-InventoryManagementSystem\bin\Debug\net8.0\DSA-01-InventoryManagementSystem.pdb
+C:\Users\SANKET\DN5-Deepskilling-Dotnet-FSE\week-1\DSA-01-InventoryManagementSystem\obj\Debug\net8.0\DSA-01-InventoryManagementSystem.dll
+C:\Users\SANKET\DN5-Deepskilling-Dotnet-FSE\week-1\DSA-01-InventoryManagementSystem\obj\Debug\net8.0\refint\DSA-01-InventoryManagementSystem.dll
+C:\Users\SANKET\DN5-Deepskilling-Dotnet-FSE\week-1\DSA-01-InventoryManagementSystem\obj\Debug\net8.0\DSA-01-InventoryManagementSystem.pdb
+C:\Users\SANKET\DN5-Deepskilling-Dotnet-FSE\week-1\DSA-01-InventoryManagementSystem\obj\Debug\net8.0\DSA-01-InventoryManagementSystem.genruntimeconfig.cache
+C:\Users\SANKET\DN5-Deepskilling-Dotnet-FSE\week-1\DSA-01-InventoryManagementSystem\obj\Debug\net8.0\ref\DSA-01-InventoryManagementSystem.dll

@@ -1,0 +1,14 @@
+C:\Users\SANKET\DN5-Deepskilling-Dotnet-FSE\week-1\01-SingletonPatterneExample\bin\Debug\net8.0\01-SingletonPatterneExample.exe
+C:\Users\SANKET\DN5-Deepskilling-Dotnet-FSE\week-1\01-SingletonPatterneExample\bin\Debug\net8.0\01-SingletonPatterneExample.deps.json
+C:\Users\SANKET\DN5-Deepskilling-Dotnet-FSE\week-1\01-SingletonPatterneExample\bin\Debug\net8.0\01-SingletonPatterneExample.runtimeconfig.json
+C:\Users\SANKET\DN5-Deepskilling-Dotnet-FSE\week-1\01-SingletonPatterneExample\bin\Debug\net8.0\01-SingletonPatterneExample.dll
+C:\Users\SANKET\DN5-Deepskilling-Dotnet-FSE\week-1\01-SingletonPatterneExample\bin\Debug\net8.0\01-SingletonPatterneExample.pdb
+C:\Users\SANKET\DN5-Deepskilling-Dotnet-FSE\week-1\01-SingletonPatterneExample\obj\Debug\net8.0\01-SingletonPatterneExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SANKET\DN5-Deepskilling-Dotnet-FSE\week-1\01-SingletonPatterneExample\obj\Debug\net8.0\01-SingletonPatterneExample.AssemblyInfoInputs.cache
+C:\Users\SANKET\DN5-Deepskilling-Dotnet-FSE\week-1\01-SingletonPatterneExample\obj\Debug\net8.0\01-SingletonPatterneExample.AssemblyInfo.cs
+C:\Users\SANKET\DN5-Deepskilling-Dotnet-FSE\week-1\01-SingletonPatterneExample\obj\Debug\net8.0\01-SingletonPatterneExample.csproj.CoreCompileInputs.cache
+C:\Users\SANKET\DN5-Deepskilling-Dotnet-FSE\week-1\01-SingletonPatterneExample\obj\Debug\net8.0\01-SingletonPatterneExample.dll
+C:\Users\SANKET\DN5-Deepskilling-Dotnet-FSE\week-1\01-SingletonPatterneExample\obj\Debug\net8.0\refint\01-SingletonPatterneExample.dll
+C:\Users\SANKET\DN5-Deepskilling-Dotnet-FSE\week-1\01-SingletonPatterneExample\obj\Debug\net8.0\01-SingletonPatterneExample.pdb
+C:\Users\SANKET\DN5-Deepskilling-Dotnet-FSE\week-1\01-SingletonPatterneExample\obj\Debug\net8.0\01-SingletonPatterneExample.genruntimeconfig.cache
+C:\Users\SANKET\DN5-Deepskilling-Dotnet-FSE\week-1\01-SingletonPatterneExample\obj\Debug\net8.0\ref\01-SingletonPatterneExample.dll

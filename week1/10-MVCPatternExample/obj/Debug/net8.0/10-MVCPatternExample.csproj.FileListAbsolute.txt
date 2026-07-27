@@ -1,0 +1,15 @@
+C:\Users\SANKET\DN5-Deepskilling-Dotnet-FSE\week-1\10-MVCPatternExample\bin\Debug\net8.0\10-MVCPatternExample.exe
+C:\Users\SANKET\DN5-Deepskilling-Dotnet-FSE\week-1\10-MVCPatternExample\bin\Debug\net8.0\10-MVCPatternExample.deps.json
+C:\Users\SANKET\DN5-Deepskilling-Dotnet-FSE\week-1\10-MVCPatternExample\bin\Debug\net8.0\10-MVCPatternExample.runtimeconfig.json
+C:\Users\SANKET\DN5-Deepskilling-Dotnet-FSE\week-1\10-MVCPatternExample\bin\Debug\net8.0\10-MVCPatternExample.dll
+C:\Users\SANKET\DN5-Deepskilling-Dotnet-FSE\week-1\10-MVCPatternExample\bin\Debug\net8.0\10-MVCPatternExample.pdb
+C:\Users\SANKET\DN5-Deepskilling-Dotnet-FSE\week-1\10-MVCPatternExample\obj\Debug\net8.0\10-MVCPatternExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SANKET\DN5-Deepskilling-Dotnet-FSE\week-1\10-MVCPatternExample\obj\Debug\net8.0\10-MVCPatternExample.AssemblyInfoInputs.cache
+C:\Users\SANKET\DN5-Deepskilling-Dotnet-FSE\week-1\10-MVCPatternExample\obj\Debug\net8.0\10-MVCPatternExample.AssemblyInfo.cs
+C:\Users\SANKET\DN5-Deepskilling-Dotnet-FSE\week-1\10-MVCPatternExample\obj\Debug\net8.0\10-MVCPatternExample.csproj.CoreCompileInputs.cache
+C:\Users\SANKET\DN5-Deepskilling-Dotnet-FSE\week-1\10-MVCPatternExample\obj\Debug\net8.0\10-MVCPatternExample.sourcelink.json
+C:\Users\SANKET\DN5-Deepskilling-Dotnet-FSE\week-1\10-MVCPatternExample\obj\Debug\net8.0\10-MVCPatternExample.dll
+C:\Users\SANKET\DN5-Deepskilling-Dotnet-FSE\week-1\10-MVCPatternExample\obj\Debug\net8.0\refint\10-MVCPatternExample.dll
+C:\Users\SANKET\DN5-Deepskilling-Dotnet-FSE\week-1\10-MVCPatternExample\obj\Debug\net8.0\10-MVCPatternExample.pdb
+C:\Users\SANKET\DN5-Deepskilling-Dotnet-FSE\week-1\10-MVCPatternExample\obj\Debug\net8.0\10-MVCPatternExample.genruntimeconfig.cache
+C:\Users\SANKET\DN5-Deepskilling-Dotnet-FSE\week-1\10-MVCPatternExample\obj\Debug\net8.0\ref\10-MVCPatternExample.dll

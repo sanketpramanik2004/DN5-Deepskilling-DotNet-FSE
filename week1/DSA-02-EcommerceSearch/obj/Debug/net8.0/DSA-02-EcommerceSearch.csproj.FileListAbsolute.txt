@@ -1,0 +1,15 @@
+C:\Users\SANKET\DN5-Deepskilling-Dotnet-FSE\week-1\DSA-02-EcommerceSearch\bin\Debug\net8.0\DSA-02-EcommerceSearch.exe
+C:\Users\SANKET\DN5-Deepskilling-Dotnet-FSE\week-1\DSA-02-EcommerceSearch\bin\Debug\net8.0\DSA-02-EcommerceSearch.deps.json
+C:\Users\SANKET\DN5-Deepskilling-Dotnet-FSE\week-1\DSA-02-EcommerceSearch\bin\Debug\net8.0\DSA-02-EcommerceSearch.runtimeconfig.json
+C:\Users\SANKET\DN5-Deepskilling-Dotnet-FSE\week-1\DSA-02-EcommerceSearch\bin\Debug\net8.0\DSA-02-EcommerceSearch.dll
+C:\Users\SANKET\DN5-Deepskilling-Dotnet-FSE\week-1\DSA-02-EcommerceSearch\bin\Debug\net8.0\DSA-02-EcommerceSearch.pdb
+C:\Users\SANKET\DN5-Deepskilling-Dotnet-FSE\week-1\DSA-02-EcommerceSearch\obj\Debug\net8.0\DSA-02-EcommerceSearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SANKET\DN5-Deepskilling-Dotnet-FSE\week-1\DSA-02-EcommerceSearch\obj\Debug\net8.0\DSA-02-EcommerceSearch.AssemblyInfoInputs.cache
+C:\Users\SANKET\DN5-Deepskilling-Dotnet-FSE\week-1\DSA-02-EcommerceSearch\obj\Debug\net8.0\DSA-02-EcommerceSearch.AssemblyInfo.cs
+C:\Users\SANKET\DN5-Deepskilling-Dotnet-FSE\week-1\DSA-02-EcommerceSearch\obj\Debug\net8.0\DSA-02-EcommerceSearch.csproj.CoreCompileInputs.cache
+C:\Users\SANKET\DN5-Deepskilling-Dotnet-FSE\week-1\DSA-02-EcommerceSearch\obj\Debug\net8.0\DSA-02-EcommerceSearch.sourcelink.json
+C:\Users\SANKET\DN5-Deepskilling-Dotnet-FSE\week-1\DSA-02-EcommerceSearch\obj\Debug\net8.0\DSA-02-EcommerceSearch.dll
+C:\Users\SANKET\DN5-Deepskilling-Dotnet-FSE\week-1\DSA-02-EcommerceSearch\obj\Debug\net8.0\refint\DSA-02-EcommerceSearch.dll
+C:\Users\SANKET\DN5-Deepskilling-Dotnet-FSE\week-1\DSA-02-EcommerceSearch\obj\Debug\net8.0\DSA-02-EcommerceSearch.pdb
+C:\Users\SANKET\DN5-Deepskilling-Dotnet-FSE\week-1\DSA-02-EcommerceSearch\obj\Debug\net8.0\DSA-02-EcommerceSearch.genruntimeconfig.cache
+C:\Users\SANKET\DN5-Deepskilling-Dotnet-FSE\week-1\DSA-02-EcommerceSearch\obj\Debug\net8.0\ref\DSA-02-EcommerceSearch.dll

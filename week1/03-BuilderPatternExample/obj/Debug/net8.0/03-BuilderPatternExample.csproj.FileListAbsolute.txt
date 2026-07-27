@@ -1,0 +1,15 @@
+C:\Users\SANKET\DN5-Deepskilling-Dotnet-FSE\week-1\03-BuilderPatternExample\bin\Debug\net8.0\03-BuilderPatternExample.exe
+C:\Users\SANKET\DN5-Deepskilling-Dotnet-FSE\week-1\03-BuilderPatternExample\bin\Debug\net8.0\03-BuilderPatternExample.deps.json
+C:\Users\SANKET\DN5-Deepskilling-Dotnet-FSE\week-1\03-BuilderPatternExample\bin\Debug\net8.0\03-BuilderPatternExample.runtimeconfig.json
+C:\Users\SANKET\DN5-Deepskilling-Dotnet-FSE\week-1\03-BuilderPatternExample\bin\Debug\net8.0\03-BuilderPatternExample.dll
+C:\Users\SANKET\DN5-Deepskilling-Dotnet-FSE\week-1\03-BuilderPatternExample\bin\Debug\net8.0\03-BuilderPatternExample.pdb
+C:\Users\SANKET\DN5-Deepskilling-Dotnet-FSE\week-1\03-BuilderPatternExample\obj\Debug\net8.0\03-BuilderPatternExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SANKET\DN5-Deepskilling-Dotnet-FSE\week-1\03-BuilderPatternExample\obj\Debug\net8.0\03-BuilderPatternExample.AssemblyInfoInputs.cache
+C:\Users\SANKET\DN5-Deepskilling-Dotnet-FSE\week-1\03-BuilderPatternExample\obj\Debug\net8.0\03-BuilderPatternExample.AssemblyInfo.cs
+C:\Users\SANKET\DN5-Deepskilling-Dotnet-FSE\week-1\03-BuilderPatternExample\obj\Debug\net8.0\03-BuilderPatternExample.csproj.CoreCompileInputs.cache
+C:\Users\SANKET\DN5-Deepskilling-Dotnet-FSE\week-1\03-BuilderPatternExample\obj\Debug\net8.0\03-BuilderPatternExample.sourcelink.json
+C:\Users\SANKET\DN5-Deepskilling-Dotnet-FSE\week-1\03-BuilderPatternExample\obj\Debug\net8.0\03-BuilderPatternExample.dll
+C:\Users\SANKET\DN5-Deepskilling-Dotnet-FSE\week-1\03-BuilderPatternExample\obj\Debug\net8.0\refint\03-BuilderPatternExample.dll
+C:\Users\SANKET\DN5-Deepskilling-Dotnet-FSE\week-1\03-BuilderPatternExample\obj\Debug\net8.0\03-BuilderPatternExample.pdb
+C:\Users\SANKET\DN5-Deepskilling-Dotnet-FSE\week-1\03-BuilderPatternExample\obj\Debug\net8.0\03-BuilderPatternExample.genruntimeconfig.cache
+C:\Users\SANKET\DN5-Deepskilling-Dotnet-FSE\week-1\03-BuilderPatternExample\obj\Debug\net8.0\ref\03-BuilderPatternExample.dll

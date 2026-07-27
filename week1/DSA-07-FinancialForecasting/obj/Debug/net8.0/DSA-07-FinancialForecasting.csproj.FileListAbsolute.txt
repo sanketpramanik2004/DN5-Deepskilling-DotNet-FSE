@@ -1,0 +1,15 @@
+C:\Users\SANKET\DN5-Deepskilling-Dotnet-FSE\week-1\DSA-07-FinancialForecasting\bin\Debug\net8.0\DSA-07-FinancialForecasting.exe
+C:\Users\SANKET\DN5-Deepskilling-Dotnet-FSE\week-1\DSA-07-FinancialForecasting\bin\Debug\net8.0\DSA-07-FinancialForecasting.deps.json
+C:\Users\SANKET\DN5-Deepskilling-Dotnet-FSE\week-1\DSA-07-FinancialForecasting\bin\Debug\net8.0\DSA-07-FinancialForecasting.runtimeconfig.json
+C:\Users\SANKET\DN5-Deepskilling-Dotnet-FSE\week-1\DSA-07-FinancialForecasting\bin\Debug\net8.0\DSA-07-FinancialForecasting.dll
+C:\Users\SANKET\DN5-Deepskilling-Dotnet-FSE\week-1\DSA-07-FinancialForecasting\bin\Debug\net8.0\DSA-07-FinancialForecasting.pdb
+C:\Users\SANKET\DN5-Deepskilling-Dotnet-FSE\week-1\DSA-07-FinancialForecasting\obj\Debug\net8.0\DSA-07-FinancialForecasting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SANKET\DN5-Deepskilling-Dotnet-FSE\week-1\DSA-07-FinancialForecasting\obj\Debug\net8.0\DSA-07-FinancialForecasting.AssemblyInfoInputs.cache
+C:\Users\SANKET\DN5-Deepskilling-Dotnet-FSE\week-1\DSA-07-FinancialForecasting\obj\Debug\net8.0\DSA-07-FinancialForecasting.AssemblyInfo.cs
+C:\Users\SANKET\DN5-Deepskilling-Dotnet-FSE\week-1\DSA-07-FinancialForecasting\obj\Debug\net8.0\DSA-07-FinancialForecasting.csproj.CoreCompileInputs.cache
+C:\Users\SANKET\DN5-Deepskilling-Dotnet-FSE\week-1\DSA-07-FinancialForecasting\obj\Debug\net8.0\DSA-07-FinancialForecasting.sourcelink.json
+C:\Users\SANKET\DN5-Deepskilling-Dotnet-FSE\week-1\DSA-07-FinancialForecasting\obj\Debug\net8.0\DSA-07-FinancialForecasting.dll
+C:\Users\SANKET\DN5-Deepskilling-Dotnet-FSE\week-1\DSA-07-FinancialForecasting\obj\Debug\net8.0\refint\DSA-07-FinancialForecasting.dll
+C:\Users\SANKET\DN5-Deepskilling-Dotnet-FSE\week-1\DSA-07-FinancialForecasting\obj\Debug\net8.0\DSA-07-FinancialForecasting.pdb
+C:\Users\SANKET\DN5-Deepskilling-Dotnet-FSE\week-1\DSA-07-FinancialForecasting\obj\Debug\net8.0\DSA-07-FinancialForecasting.genruntimeconfig.cache
+C:\Users\SANKET\DN5-Deepskilling-Dotnet-FSE\week-1\DSA-07-FinancialForecasting\obj\Debug\net8.0\ref\DSA-07-FinancialForecasting.dll
